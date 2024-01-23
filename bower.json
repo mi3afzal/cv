@@ -11,7 +11,7 @@
   , "private": false
   , "main": ""
   , "moduleType": [
-      "project"
+      "globals"
     ]
   , "dependencies": {
         "animate.css":    "^4.1.1"
