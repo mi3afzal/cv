@@ -2,7 +2,7 @@
 /*!
  * Project:     cv
  * File:        assets/js/front/theme.js
- * Copyright(c) 2016-nowdays Baltrushaitis Tomas <tbaltrushaitis@gmail.com>
+ * Copyright(c) 2016-nowdays Muhammad Irfan Afzal <mi3afzal@gmail.com>
  * License:     MIT
  */
 /*!

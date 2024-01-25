@@ -9,7 +9,7 @@
     , "nick":   "mi3afzal"
     , "abbr":   "mi3afzal"
     , "email":  "@{./abbr}@gmail.com"
-    , "url":    "http://bit.ly/tomascv"
+    , "url":    "https://mi3afzal.com"
     , "bio": {
           "birth":        "April &apos;88"
         , "citizenship":  "Pakistani"
@@ -36,33 +36,33 @@
           , "label":  "LinkedIn"
           , "title":  "LinkedIn profile"
           , "icon":   "fab fa-linkedin"
-          , "url":    "http://bit.ly/tomas-in"
+          , "url":    "https://www.linkedin.com/in/mi3afzal"
         }
       , "github": {
             "name":   "github"
           , "label":  "Github"
           , "title":  "Github account"
           , "icon":   "fab fa-github"
-          , "url":    "http://bit.ly/tomas-git"
+          , "url":    "https://github.com/mi3afzal"
         }
       , "bitbucket": {
             "name":   "bitbucket"
           , "label":  "BitBucket"
           , "title":  "BitBucket repos"
           , "icon":   "fab fa-bitbucket"
-          , "url":    "http://bit.ly/tomas-bb"
+          , "url":    "https://bitbucket.org/mi3afzal"
         }
       , "dockerhub": {
             "name":   "dockerhub"
           , "label":  "Docker"
           , "title":  "Docker Hub"
           , "icon":   "fab fa-docker"
-          , "url":    "http://bit.ly/tomas-hub"
+          , "url":    "https://hub.docker.com/u/mi3afzal"
         }
       }
     , "contacts": {
-          "cell":   "KzM4MCg2Myk1NDUtMjMtb25lLTM="
-        , "email":  "bWFpbHRvOnRiYWx0cnVzaGFpdGlzQGdtYWlsLmNvbQ=="
+          "cell":   "KzkyLTMxMS03NzcwODA4"
+        , "email":  "bWFpbHRvOm1pM2FmemFsQGdtYWlsLmNvbQ=="
       }
   }
 }

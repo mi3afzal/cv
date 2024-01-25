@@ -3,10 +3,10 @@
   , "version":      "0.3.1"
   , "title":        "Modern CV, Resume and Portfolio website"
   , "description":  "Best-in-Class website template for modern CV, Resume and Portfolio. Easy customizable static website with simple smart easy-to-use builder."
-  , "homepage":     "https://github.com/tbaltrushaitis/cv"
+  , "homepage":     "https://github.com/mi3afzal/cv"
   , "license":      "MIT"
   , "authors": [
-      "tbaltrushaitis@gmail.com"
+      "mi3afzal@gmail.com"
     ]
   , "private": false
   , "main": ""

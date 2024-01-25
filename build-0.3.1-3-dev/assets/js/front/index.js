@@ -2,7 +2,7 @@
 /*!
  * Project:     cv
  * File:        assets/js/front/index.js
- * Copyright(c) 2016-nowdays Baltrushaitis Tomas <tbaltrushaitis@gmail.com>
+ * Copyright(c) 2016-nowdays Muhammad Irfan Afzal <mi3afzal@gmail.com>
  * License:     MIT
  */
 
@@ -176,8 +176,8 @@ window.jQuery(function ($) {
 
     $(document).ready(function () {
       console.log('%c✓ %cDOCUMENT: READY', 'color:green;font-weight:bold;font-size:16px;', 'color:black;font-weight:normal;');
-      $('[name="contact-cell"]').html(atob('KzM4MCg2Myk1NDUtMjMtb25lLTM='));
-      $('[name="contact-email"]').prop('href', atob('bWFpbHRvOnRiYWx0cnVzaGFpdGlzQGdtYWlsLmNvbQ=='));
+      $('[name="contact-cell"]').html(atob('KzkyLTMxMS03NzcwODA4'));
+      $('[name="contact-email"]').prop('href', atob('bWFpbHRvOm1pM2FmemFsQGdtYWlsLmNvbQ=='));
       console.log(`%c✓ %c${atob('Q09OVEFDVFMgU0VU')}`, 'color:green;font-weight:bold;font-size:16px;', 'color:blue;font-weight:bold;');
 
       // ---------------------------------------------------------------------------

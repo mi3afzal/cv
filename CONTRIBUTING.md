@@ -17,6 +17,6 @@ Please note we have a [code of conduct][code_of_conduct], please follow it in al
    do not have permission to do that, you may request the second reviewer to merge it for you.
 
 [code_of_conduct]: CODE_OF_CONDUCT.md
-[Owners]: https://github.com/tbaltrushaitis
+[Owners]: https://github.com/mi3afzal
 [Readme]: README.md
 [SemVer]: http://semver.org/

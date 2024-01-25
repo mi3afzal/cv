@@ -7,7 +7,7 @@ server {
   listen        443 ssl;
   listen        [::]:443 ssl ipv6only=on;
 
-  server_name   cv.gsm-center.com.ua;
+  server_name   mi3afzal.com;
 
   root          /var/www/html/cv.git/webroot;
   index         index.html;
@@ -28,8 +28,8 @@ server {
   ## SSL configuration
   ## managed by Certbot
   ##
-  ssl_certificate     /etc/letsencrypt/live/cv.gsm-center.com.ua/fullchain.pem;
-  ssl_certificate_key /etc/letsencrypt/live/cv.gsm-center.com.ua/privkey.pem;
+  ssl_certificate     /etc/letsencrypt/live/mi3afzal.com/fullchain.pem;
+  ssl_certificate_key /etc/letsencrypt/live/mi3afzal.com/privkey.pem;
   ssl_dhparam         /etc/letsencrypt/ssl-dhparams.pem;
   include             /etc/letsencrypt/options-ssl-nginx.conf;
 
@@ -38,7 +38,7 @@ server {
 
 server {
 
-  server_name   cv.gsm-center.com.ua;
+  server_name   mi3afzal.com;
 
   listen        80;
   listen        [::]:80;
@@ -47,7 +47,7 @@ server {
   ## Redirect HTTP to HTTPS
   ## managed by Certbot
   ##
-  if ($host = cv.gsm-center.com.ua) {
+  if ($host = mi3afzal.com) {
     return 301 https://$host$request_uri;
   }
   return 404;

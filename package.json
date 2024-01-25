@@ -3,20 +3,20 @@
 	"version": "0.3.1",
 	"title": "Modern CV, Resume and Portfolio website",
 	"description": "Best-in-Class website template for modern CV, Resume and Portfolio. Easy customizable All-in-One-Page static website with builder.",
-	"homepage": "https://github.com/tbaltrushaitis/cv",
-	"bugs": "https://github.com/tbaltrushaitis/cv/issues",
+	"homepage": "https://github.com/mi3afzal/cv",
+	"bugs": "https://github.com/mi3afzal/cv/issues",
 	"license": "MIT",
 	"author": {
-		"name": "Baltrushaitis Tomas",
-		"email": "tbaltrushaitis@gmail.com",
-		"url": "https://github.com/tbaltrushaitis"
+		"name": "Muhammad Irfan Afzal",
+		"email": "mi3afzal@gmail.com",
+		"url": "https://github.com/mi3afzal"
 	},
 	"private": false,
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/tbaltrushaitis/cv.git"
+		"url": "git+https://github.com/mi3afzal/cv.git"
 	},
-	"website": "http://bit.ly/tomascv?from=cv-package.json",
+	"website": "https://mi3afzal.com",
 	"readmeFilename": "README.md",
 	"engines": {
 		"node": ">=12.18.4",

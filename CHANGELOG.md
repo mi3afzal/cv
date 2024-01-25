@@ -1,9 +1,9 @@
 <h1 align="center">CV, Resume and Portfolio</h1>
 
 <p align="center">
-  <a href="https://github.com/tbaltrushaitis/cv/releases"><img src="https://img.shields.io/github/release/tbaltrushaitis/cv.svg?style=flat" alt="GitHub release"></a>
-  <a href="https://github.com/tbaltrushaitis/cv/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat" alt="License"></a>
-  <a href="https://github.com/tbaltrushaitis/cv/stargazers"><img src="https://img.shields.io/github/stars/tbaltrushaitis/cv.svg?style=flat" alt="GitHub Stars"></a>
+  <a href="https://github.com/mi3afzal/cv/releases"><img src="https://img.shields.io/github/release/tbaltrushaitis/cv.svg?style=flat" alt="GitHub release"></a>
+  <a href="https://github.com/mi3afzal/cv/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat" alt="License"></a>
+  <a href="https://github.com/mi3afzal/cv/stargazers"><img src="https://img.shields.io/github/stars/tbaltrushaitis/cv.svg?style=flat" alt="GitHub Stars"></a>
 </p>
 
 <p align="center">
@@ -53,14 +53,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ---
 
-## [Slava-Ukraini](https://github.com/tbaltrushaitis/cv/releases/tag/v0.3.1) - 2022-10-30 ##
+## [Slava-Ukraini](https://github.com/mi3afzal/cv/releases/tag/v0.3.1) - 2022-10-30 ##
 
 ## [Released] ##
 - [x] Include all latest updates and fixes from **v0.3.1**
 
 ---
 
-## [v0.3.1](https://github.com/tbaltrushaitis/cv/tree/v0.3.1) - 2022-10-30 ##
+## [v0.3.1](https://github.com/mi3afzal/cv/tree/v0.3.1) - 2022-10-30 ##
 
 ##### Added #####
 - [x] CJIABA YKPAIHI :ukraine:
@@ -106,14 +106,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ---
 
-## [Bokach](https://github.com/tbaltrushaitis/cv/releases/tag/v0.3.0) - 2020-06-08 ##
+## [Bokach](https://github.com/mi3afzal/cv/releases/tag/v0.3.0) - 2020-06-08 ##
 
 ## [Released] ##
 - [x] Include all latest updates and fixes from **v0.3.0**
 
 ---
 
-## [v0.3.0](https://github.com/tbaltrushaitis/cv/tree/v0.3.0) - 2020-06-08 ##
+## [v0.3.0](https://github.com/mi3afzal/cv/tree/v0.3.0) - 2020-06-08 ##
 
 ### Added ###
 - `gulp-imagemin` plugins: `giflossy`, `mozjpeg`, `pngquant`, `webp`
@@ -148,7 +148,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ---
 
-## [Leap-Year-Date-20200229 - v0.2.5](https://github.com/tbaltrushaitis/cv/releases/tag/v0.2.5) - 2020-02-29 ##
+## [Leap-Year-Date-20200229 - v0.2.5](https://github.com/mi3afzal/cv/releases/tag/v0.2.5) - 2020-02-29 ##
 ### Added ###
 - `Ubuntu`, `Red Hat`, `CentOS` and `Confluence` brand colors for Fontawesome icons
 - Blocks for description of roles and responsibilities
@@ -159,7 +159,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ---
 
-## [v0.2.4](https://github.com/tbaltrushaitis/cv/tree/v0.2.4) - 2020-02-26 ##
+## [v0.2.4](https://github.com/mi3afzal/cv/tree/v0.2.4) - 2020-02-26 ##
 
 ### Added ###
 - manifest.json
@@ -189,7 +189,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ---
 
-## [v0.2.3](https://github.com/tbaltrushaitis/cv/tree/v0.2.3) - 2019-08-02 ##
+## [v0.2.3](https://github.com/mi3afzal/cv/tree/v0.2.3) - 2019-08-02 ##
 
 ### Added ###
 - hue animation for current job position
@@ -211,14 +211,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ---
 
-## [Mason](https://github.com/tbaltrushaitis/cv/releases/tag/v0.2.2) - 2019-05-07 ##
+## [Mason](https://github.com/mi3afzal/cv/releases/tag/v0.2.2) - 2019-05-07 ##
 
 ## [Released] ##
 - [x] Include all latest updates and fixes from **v0.2.2**
 
 ---
 
-## [v0.2.2](https://github.com/tbaltrushaitis/cv/tree/v0.2.2) - 2019-05-07 ##
+## [v0.2.2](https://github.com/mi3afzal/cv/tree/v0.2.2) - 2019-05-07 ##
 
 ### Added ###
 - Several tweaks for apache server caching and compressing in `.htaccess` file
@@ -250,7 +250,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ---
 
-## [v0.2.0](https://github.com/tbaltrushaitis/cv/tree/dev-0.2.0) - 2019-04-05 ##
+## [v0.2.0](https://github.com/mi3afzal/cv/tree/dev-0.2.0) - 2019-04-05 ##
 
 ### Added ###
 - Attribute `rel="noopener"` for several links for higher security
@@ -260,7 +260,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ---
 
-## [v0.1.6](https://github.com/tbaltrushaitis/cv/commit/1510802b77f3b57430ee129613a5178b506e351f) - 2018-11-07 ##
+## [v0.1.6](https://github.com/mi3afzal/cv/commit/1510802b77f3b57430ee129613a5178b506e351f) - 2018-11-07 ##
 
 ### Added ###
 - Using [jimp](https://github.com/oliver-moran/jimp) from now to automatically create thumbnails for portfolio images
@@ -278,12 +278,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ---
 
-## [Copna](https://github.com/tbaltrushaitis/cv/releases/tag/v0.1.5) - 2018-11-07 ##
+## [Copna](https://github.com/mi3afzal/cv/releases/tag/v0.1.5) - 2018-11-07 ##
 This one is the last release before start implementing JSON-configurable site generation process.
 
 ---
 
-## [v0.1.5](https://github.com/tbaltrushaitis/cv/tree/v0.1.5) - 2018-10-10 ##
+## [v0.1.5](https://github.com/mi3afzal/cv/tree/v0.1.5) - 2018-10-10 ##
 
 ### Added ###
 - Company logo in employment history
@@ -298,7 +298,7 @@ This one is the last release before start implementing JSON-configurable site ge
 
 ---
 
-## [v0.1.4](https://github.com/tbaltrushaitis/cv/releases/tag/v0.1.4) - 2018-06-01 ##
+## [v0.1.4](https://github.com/mi3afzal/cv/releases/tag/v0.1.4) - 2018-06-01 ##
 
 ### Added ###
 - More Font-Awesome icons in decoration
@@ -309,7 +309,7 @@ This one is the last release before start implementing JSON-configurable site ge
 
 ---
 
-## [v0.1.3](https://github.com/tbaltrushaitis/cv/releases/tag/v0.1.3) - 2018-06-01 ##
+## [v0.1.3](https://github.com/mi3afzal/cv/releases/tag/v0.1.3) - 2018-06-01 ##
 
 ### Changed ###
 - Updated list of skills
@@ -317,7 +317,7 @@ This one is the last release before start implementing JSON-configurable site ge
 
 ---
 
-## [v0.1.2](https://github.com/tbaltrushaitis/cv/releases/tag/v0.1.2) - 2018-02-01 ##
+## [v0.1.2](https://github.com/mi3afzal/cv/releases/tag/v0.1.2) - 2018-02-01 ##
 
 ### Changed ###
 - Updated jQuery to v3.3.1 due to critical vulnerability
@@ -325,7 +325,7 @@ This one is the last release before start implementing JSON-configurable site ge
 
 ---
 
-## [v0.1.1](https://github.com/tbaltrushaitis/cv/releases/tag/v0.1.1) - 2018-01-10 ##
+## [v0.1.1](https://github.com/mi3afzal/cv/releases/tag/v0.1.1) - 2018-01-10 ##
 
 ### Added ###
 - Makefile
@@ -336,7 +336,7 @@ This one is the last release before start implementing JSON-configurable site ge
 
 ---
 
-## [v0.1.0](https://github.com/tbaltrushaitis/cv/commit/2a4e83e8259cd96325848adf3638add5965849b3) - 2017-12-15 ##
+## [v0.1.0](https://github.com/mi3afzal/cv/commit/2a4e83e8259cd96325848adf3638add5965849b3) - 2017-12-15 ##
 
 ### Added ###
 - More animations
@@ -347,7 +347,7 @@ This one is the last release before start implementing JSON-configurable site ge
 
 ---
 
-## [v0.0.0](https://github.com/tbaltrushaitis/cv/commit/bdf93f1e81fb75d6f884f92f407e4adcb90c66ef) - 2017-05-12 ##
+## [v0.0.0](https://github.com/mi3afzal/cv/commit/bdf93f1e81fb75d6f884f92f407e4adcb90c66ef) - 2017-05-12 ##
 
 ### Added ###
 - [x] Initial commit

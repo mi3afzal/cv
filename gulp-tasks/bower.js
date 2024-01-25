@@ -1,7 +1,7 @@
 /*!
  * Project:     cv
  * File:        ./gulp-tasks/bower.js
- * Copyright(c) 2018-present Baltrushaitis Tomas <tbaltrushaitis@gmail.com>
+ * Copyright(c) 2018-present Muhammad Irfan Afzal <mi3afzal@gmail.com>
  * License:     MIT
  */
 

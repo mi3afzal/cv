@@ -1,9 +1,9 @@
 <h1 align="center">CV, Resume and Portfolio</h1>
 
 <p align="center">
-  <a href="https://github.com/tbaltrushaitis/cv/releases"><img src="https://img.shields.io/github/release/tbaltrushaitis/cv.svg?style=flat" alt="GitHub release"></a>
-  <a href="https://github.com/tbaltrushaitis/cv/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat" alt="License"></a>
-  <a href="https://github.com/tbaltrushaitis/cv/stargazers"><img src="https://img.shields.io/github/stars/tbaltrushaitis/cv.svg?style=flat" alt="GitHub Stars"></a>
+  <a href="https://github.com/mi3afzal/cv/releases"><img src="https://img.shields.io/github/release/tbaltrushaitis/cv.svg?style=flat" alt="GitHub release"></a>
+  <a href="https://github.com/mi3afzal/cv/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat" alt="License"></a>
+  <a href="https://github.com/mi3afzal/cv/stargazers"><img src="https://img.shields.io/github/stars/tbaltrushaitis/cv.svg?style=flat" alt="GitHub Stars"></a>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ See how it look & feel at :point_right: [CV][CV] :point_left:
 ### :one: Clone the repository ###
 ```shell
 $ APP_NAME=cv \
-&& git clone https://github.com/tbaltrushaitis/${APP_NAME}.git \
+&& git clone https://github.com/mi3afzal/${APP_NAME}.git \
 && cd ${APP_NAME}
 ```
 

@@ -1,7 +1,7 @@
 /*!
  * Project:     cv
  * File:        ./gulpfile.js
- * Copyright(c) 2016-present Baltrushaitis Tomas <tbaltrushaitis@gmail.com>
+ * Copyright(c) 2016-present Muhammad Irfan Afzal <mi3afzal@gmail.com>
  * License:     MIT
  */
 
